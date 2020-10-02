@@ -10,14 +10,14 @@ We do NOT collect, transmit or disclose any information that would identify you 
     to read/write to the Firebase database.
 
 #### 2-Camera
-    If someone find something and want to post it, he should post an image using camera or from                gallery.
+    If someone find something and want to post it, he should post an image using camera or from gallery.
 
 #### 3-Write/Read from external storage
     When the user takes a photo it is saved to the external storage.
     When the user want to import an image, it read from the storage.
 
 #### 4-Telephone
-    When the user search for the something that he missed, and if he find it, he call the person who           post this element.
+    When the user search for the something that he missed, and if he find it, he call the person who post this element.
 
 ### Links To Other Sites:  
 Our Service doesn't contain any links to other sites.
